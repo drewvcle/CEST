@@ -1,5 +1,5 @@
 # CEST
-Conceptual Expertise In Sorting Task
+Conceptual Expertise In Sorting Task.
 TLDR: This program is used to import required data from a game and export it into a readable Excel table.
 
 In this project, participants are required play a game where they must sort items from multiple chests into different chests. This point of this experiment
